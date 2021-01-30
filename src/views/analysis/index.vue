@@ -1,5 +1,6 @@
 <template>
   <div class="">
+    Analysis
   </div>
 </template>
 <script>

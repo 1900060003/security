@@ -16,6 +16,7 @@ export default {
     passwordConfirm: '与密码不匹配。'
   },
   menu: {
+    logout: '退出',
     home: {
       main: '首页'
     },
@@ -55,5 +56,69 @@ export default {
     analysis: {
       main: '分析系统'
     }
+  },
+  action: {
+    pagination: {
+      prev: '上一页',
+      next: '下一页'
+    },
+    operate: '操作',
+    search: '查询',
+    reset: '重置',
+    edit: '编辑',
+    remove: '删除',
+    add: '添加',
+    confirm: '确定',
+    cancel: '取消',
+    warning: '警告',
+    delete: '确认将要删除该数据？',
+    logout: '确认要退出系统吗？',
+    success: '操作成功',
+    shrink: '收缩',
+    unfold: '伸展',
+    save: '保存',
+    customize: '自定义',
+    attributes: '属性配置'
+  },
+  attributes: {
+    text: '文本',
+    textAlign: '文本对齐',
+    fontSize: '文字大小',
+    chart: '图表',
+    chartType: {
+      main: '图表类型',
+      line: '线图',
+      pie: '饼图',
+      column: '柱状图',
+      geography: '地理图'
+    },
+    tip: '右键编辑属性配置'
+  },
+  user: {
+    account: '账号',
+    role: '角色',
+    organization: '部门',
+    name: '姓名',
+    email: '邮箱',
+    search: '搜索用户',
+    password: '密码',
+    repassword: '确认密码',
+    create: '创建用户',
+    edit: '编辑用户'
+  },
+  role: {
+    name: '角色名称',
+    create: '创建角色',
+    edit: '编辑角色'
+  },
+  organization: {
+    name: '名称',
+    functional: '职能',
+    category: '领域',
+    remarks: '备注',
+    users: '用户'
+  },
+  home: {
+    empty: '请点击自定义按钮编辑展示页面'
   }
 }

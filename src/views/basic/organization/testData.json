@@ -1,0 +1,1503 @@
+[
+{
+  "data":
+  {
+    "groupDesc": "市委网信办",
+    "groupDomain": "",
+    "groupId": 72,
+    "groupName": "重庆市委网信办",
+    "groupOrder": 0,
+    "groupPid": 0,
+    "groupType": 3,
+    "memo": "市委网信办"
+  },
+  "id": "00",
+  "parent": "#",
+  "text": "北京市委网信办",
+  "type": "subGroup"
+},
+{
+  "data":
+  {
+    "groupType": 3,
+    "groupId": 72,
+    "userName": "管理员",
+    "userId": "zgadmin",
+    "userType": 1
+  },
+  "id": "Bwk2uFI6cU2",
+  "parent": "00",
+  "text": "管理员",
+  "type": "user"
+},
+{
+  "data":
+  {
+    "groupCode": "91500000765916977A",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3074,
+    "groupName": "重庆华龙网集团股份有限公司",
+    "groupOrder": 3,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "30741",
+  "parent": "00",
+  "text": "北京华龙网集团股份有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupDesc": "市委网信办",
+    "groupDomain": "",
+    "groupId": 72,
+    "groupName": "重庆市委网信办",
+    "groupOrder": 0,
+    "groupPid": 0,
+    "groupType": 3,
+    "memo": "市委网信办"
+  },
+  "id": "72",
+  "parent": "#",
+  "text": "重庆市委网信办",
+  "type": "subGroup"
+},
+{
+  "data":
+  {
+    "groupType": 3,
+    "groupId": 72,
+    "userName": "管理员",
+    "userId": "zgadmin",
+    "userType": 1
+  },
+  "id": "Bwk2uFI6cU",
+  "parent": "72",
+  "text": "管理员",
+  "type": "user"
+},
+{
+  "data":
+  {
+    "groupCode": "91500000765916977A",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3074,
+    "groupName": "重庆华龙网集团股份有限公司",
+    "groupOrder": 3,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3074",
+  "parent": "72",
+  "text": "重庆华龙网集团股份有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11100000745327542R",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3076,
+    "groupName": "中华人民共和国重庆海事局",
+    "groupOrder": 4,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3076",
+  "parent": "72",
+  "text": "中华人民共和国重庆海事局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915000006664268767",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3078,
+    "groupName": "利宝保险有限公司",
+    "groupOrder": 5,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3078",
+  "parent": "72",
+  "text": "利宝保险有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000MB16592299",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3214,
+    "groupName": "重庆市信访办公室",
+    "groupOrder": 6,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3214",
+  "parent": "72",
+  "text": "重庆市信访办公室",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "13500000009277428E",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3216,
+    "groupName": "重庆市台湾同胞联谊会",
+    "groupOrder": 7,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3216",
+  "parent": "72",
+  "text": "重庆市台湾同胞联谊会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "135000005040253679",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3075,
+    "groupName": "重庆市红十字会",
+    "groupOrder": 8,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3075",
+  "parent": "72",
+  "text": "重庆市红十字会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11100000009278033U",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3077,
+    "groupName": "重庆煤矿安全监察局",
+    "groupOrder": 9,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3077",
+  "parent": "72",
+  "text": "重庆煤矿安全监察局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "91500000765941136Q",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3236,
+    "groupName": "重庆粮食集团有限责任公司",
+    "groupOrder": 10,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3236",
+  "parent": "72",
+  "text": "重庆粮食集团有限责任公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1150000000927848X3",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3079,
+    "groupName": "重庆市第一中级人民法院",
+    "groupOrder": 11,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3079",
+  "parent": "72",
+  "text": "重庆市第一中级人民法院",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12100000709365904G",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3071,
+    "groupName": "中国银行保险监督管理委员会重庆监管局",
+    "groupOrder": 12,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3071",
+  "parent": "72",
+  "text": "中国银行保险监督管理委员会重庆监管局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000009275641X",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3193,
+    "groupName": "中国共产党重庆市委员会政法委员会",
+    "groupOrder": 13,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3193",
+  "parent": "72",
+  "text": "中国共产党重庆市委员会政法委员会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000009130119H",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3215,
+    "groupName": "重庆市人民检察院第四分院",
+    "groupOrder": 14,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3215",
+  "parent": "72",
+  "text": "重庆市人民检察院第四分院",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000MB185477XR",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3217,
+    "groupName": "重庆市知识产权局",
+    "groupOrder": 15,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3217",
+  "parent": "72",
+  "text": "重庆市知识产权局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000450384902X",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3031,
+    "groupName": "重庆社会科学院",
+    "groupOrder": 16,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3031",
+  "parent": "72",
+  "text": "重庆社会科学院",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "115000000092756333",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3021,
+    "groupName": "中共重庆市委直属机关工作委员会",
+    "groupOrder": 17,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3021",
+  "parent": "72",
+  "text": "中共重庆市委直属机关工作委员会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": " 125000004503875056",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2703,
+    "groupName": "中国共产党重庆市委员会党史研究室",
+    "groupOrder": 18,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2703",
+  "parent": "72",
+  "text": "中国共产党重庆市委员会党史研究室",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12100000739803178W",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3033,
+    "groupName": "重庆市气象局",
+    "groupOrder": 19,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3033",
+  "parent": "72",
+  "text": "重庆市气象局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12100000MB0550547E",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3023,
+    "groupName": "中国证券监督管理委员会重庆监管局",
+    "groupOrder": 20,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3023",
+  "parent": "72",
+  "text": "中国证券监督管理委员会重庆监管局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000450483628W",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2705,
+    "groupName": "中国共产党重庆市委员会党校（重庆行政学院）",
+    "groupOrder": 21,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2705",
+  "parent": "72",
+  "text": "中国共产党重庆市委员会党校（重庆行政学院）",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000202948588T",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3035,
+    "groupName": "重庆市射击射箭运动管理中心",
+    "groupOrder": 22,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3035",
+  "parent": "72",
+  "text": "重庆市射击射箭运动管理中心",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "91500105759260895X",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3025,
+    "groupName": "重庆国际投资咨询集团有限公司",
+    "groupOrder": 23,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3025",
+  "parent": "72",
+  "text": "重庆国际投资咨询集团有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000450405814B",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3037,
+    "groupName": "重庆市体育彩票管理中心",
+    "groupOrder": 24,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3037",
+  "parent": "72",
+  "text": "重庆市体育彩票管理中心",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915002226814537331",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3027,
+    "groupName": "重庆旗能电铝有限公司",
+    "groupOrder": 25,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3027",
+  "parent": "72",
+  "text": "重庆旗能电铝有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000588919420X",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3029,
+    "groupName": "重庆市大田湾全民健身中心",
+    "groupOrder": 26,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3029",
+  "parent": "72",
+  "text": "重庆市大田湾全民健身中心",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000009275553F",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3019,
+    "groupName": "中共重庆市委办公厅",
+    "groupOrder": 27,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3019",
+  "parent": "72",
+  "text": "中共重庆市委办公厅",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "13500000MB0U2777XW",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2931,
+    "groupName": "重庆市科学技术学会",
+    "groupOrder": 28,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2931",
+  "parent": "72",
+  "text": "重庆市科学技术学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504023716B",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2921,
+    "groupName": "重庆市土木建筑学会",
+    "groupOrder": 29,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2921",
+  "parent": "72",
+  "text": "重庆市土木建筑学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000450418017K",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2923,
+    "groupName": "重庆市桥梁协会",
+    "groupOrder": 30,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2923",
+  "parent": "72",
+  "text": "重庆市桥梁协会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000MJP56832XD",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2925,
+    "groupName": "重庆市电源学会",
+    "groupOrder": 31,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2925",
+  "parent": "72",
+  "text": "重庆市电源学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915000007093295592",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2937,
+    "groupName": "重庆水务集团股份有限公司",
+    "groupOrder": 32,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2937",
+  "parent": "72",
+  "text": "重庆水务集团股份有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504031521T",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2927,
+    "groupName": "重庆科普作家协会",
+    "groupOrder": 33,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2927",
+  "parent": "72",
+  "text": "重庆科普作家协会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "125000006608977062",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2929,
+    "groupName": "重庆科技馆",
+    "groupOrder": 34,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2929",
+  "parent": "72",
+  "text": "重庆科技馆",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "5150000066643776XT",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2919,
+    "groupName": "重庆市运筹学学会",
+    "groupOrder": 35,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2919",
+  "parent": "72",
+  "text": "重庆市运筹学学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915001095880083870",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2998,
+    "groupName": "重庆四联特种装备材料有限公司",
+    "groupOrder": 36,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2998",
+  "parent": "72",
+  "text": "重庆四联特种装备材料有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "13500000504027274R",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3041,
+    "groupName": "重庆市文学艺术界联合会",
+    "groupOrder": 37,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3041",
+  "parent": "72",
+  "text": "重庆市文学艺术界联合会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1350000050402492x4",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3043,
+    "groupName": "重庆市作家协会",
+    "groupOrder": 38,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3043",
+  "parent": "72",
+  "text": "重庆市作家协会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "91500000621914032Q",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3045,
+    "groupName": "重庆中法供水有限公司",
+    "groupOrder": 39,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3045",
+  "parent": "72",
+  "text": "重庆中法供水有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": " 115000000092756258",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2896,
+    "groupName": "中国共产党重庆市委员会老干部局",
+    "groupOrder": 40,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2896",
+  "parent": "72",
+  "text": "中国共产党重庆市委员会老干部局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": " 91500000768898532C",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3047,
+    "groupName": "重庆新华书店集团公司",
+    "groupOrder": 41,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3047",
+  "parent": "72",
+  "text": "重庆新华书店集团公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915001127094301987",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2898,
+    "groupName": "重庆空港经济开发建设有限公司",
+    "groupOrder": 42,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2898",
+  "parent": "72",
+  "text": "重庆空港经济开发建设有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000450389957N",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3039,
+    "groupName": "重庆市运动技术学院",
+    "groupOrder": 43,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3039",
+  "parent": "72",
+  "text": "重庆市运动技术学院",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915001097592913418",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3012,
+    "groupName": "重庆川仪速达机电有限公司",
+    "groupOrder": 44,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3012",
+  "parent": "72",
+  "text": "重庆川仪速达机电有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "9150010974287062x9",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3002,
+    "groupName": "重庆川仪自动化股份有限公司电气成套分公司",
+    "groupOrder": 45,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3002",
+  "parent": "72",
+  "text": "重庆川仪自动化股份有限公司电气成套分公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915001099032357679",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3004,
+    "groupName": "川仪调节阀有限公司",
+    "groupOrder": 46,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3004",
+  "parent": "72",
+  "text": "川仪调节阀有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "91500109903243994P",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3006,
+    "groupName": "重庆川仪自动化股份有限公司金属功能材料分公司",
+    "groupOrder": 47,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3006",
+  "parent": "72",
+  "text": "重庆川仪自动化股份有限公司金属功能材料分公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "91500000768870054Y",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3018,
+    "groupName": "新华基金管理股份有限公司",
+    "groupOrder": 48,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3018",
+  "parent": "72",
+  "text": "新华基金管理股份有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915000007688933444",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3008,
+    "groupName": "重庆川仪自动化股份有限公司执行器分公司",
+    "groupOrder": 49,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3008",
+  "parent": "72",
+  "text": "重庆川仪自动化股份有限公司执行器分公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "202888247",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3010,
+    "groupName": "重庆四联技术进出口有限公司",
+    "groupOrder": 50,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3010",
+  "parent": "72",
+  "text": "重庆四联技术进出口有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915001096761430879",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3000,
+    "groupName": "重庆四联光电科技有限公司",
+    "groupOrder": 51,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3000",
+  "parent": "72",
+  "text": "重庆四联光电科技有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000450417807Q",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2912,
+    "groupName": "重庆市发邪教协会",
+    "groupOrder": 52,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2912",
+  "parent": "72",
+  "text": "重庆市发邪教协会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504028867D",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2902,
+    "groupName": "重庆照明学会",
+    "groupOrder": 53,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2902",
+  "parent": "72",
+  "text": "重庆照明学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "515000007748992320",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2914,
+    "groupName": "重庆市蜂业学会",
+    "groupOrder": 54,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2914",
+  "parent": "72",
+  "text": "重庆市蜂业学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504023871P",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2904,
+    "groupName": "重庆市风景园林学会",
+    "groupOrder": 55,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2904",
+  "parent": "72",
+  "text": "重庆市风景园林学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "515000007474898016",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2916,
+    "groupName": "重庆市工程师协会",
+    "groupOrder": 56,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2916",
+  "parent": "72",
+  "text": "重庆市工程师协会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "515000005040251999",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2906,
+    "groupName": "重庆市煤炭学会",
+    "groupOrder": 57,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2906",
+  "parent": "72",
+  "text": "重庆市煤炭学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "L5150000074747612XR",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2918,
+    "groupName": "重庆市工业与应用数学学会",
+    "groupOrder": 58,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2918",
+  "parent": "72",
+  "text": "重庆市工业与应用数学学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504025295J",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2908,
+    "groupName": "重庆市电机工程学会",
+    "groupOrder": 59,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2908",
+  "parent": "72",
+  "text": "重庆市电机工程学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504023580L",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2910,
+    "groupName": "重庆市环境科学学会",
+    "groupOrder": 60,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2910",
+  "parent": "72",
+  "text": "重庆市环境科学学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "12500000450387708T",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2900,
+    "groupName": "重庆日报报业集团",
+    "groupOrder": 61,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2900",
+  "parent": "72",
+  "text": "重庆日报报业集团",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "125000004503880064",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2702,
+    "groupName": "中共重庆市委当代党员杂志社",
+    "groupOrder": 62,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2702",
+  "parent": "72",
+  "text": "中共重庆市委当代党员杂志社",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000009275967K",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3032,
+    "groupName": "重庆市民族宗教事务委员会",
+    "groupOrder": 63,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3032",
+  "parent": "72",
+  "text": "重庆市民族宗教事务委员会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1350000000927733xt",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3022,
+    "groupName": "中国共产主义青年团重庆市委员会",
+    "groupOrder": 64,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3022",
+  "parent": "72",
+  "text": "中国共产主义青年团重庆市委员会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1150000000927557X2",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2704,
+    "groupName": "中国共产党重庆市委员会研究室",
+    "groupOrder": 65,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2704",
+  "parent": "72",
+  "text": "中国共产党重庆市委员会研究室",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1150000079072503X2",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3034,
+    "groupName": "重庆市人民检察院第五分院",
+    "groupOrder": 66,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3034",
+  "parent": "72",
+  "text": "重庆市人民检察院第五分院",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915000002029366595",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3024,
+    "groupName": "中信建投期货有限公司",
+    "groupOrder": 67,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3024",
+  "parent": "72",
+  "text": "中信建投期货有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "115000000092765485",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2706,
+    "groupName": "重庆市财政局",
+    "groupOrder": 68,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2706",
+  "parent": "72",
+  "text": "重庆市财政局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "91500000663597063W",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3036,
+    "groupName": "重庆市水务资产经营有限公司",
+    "groupOrder": 69,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3036",
+  "parent": "72",
+  "text": "重庆市水务资产经营有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "915001030628854224",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3026,
+    "groupName": "重庆晨报传媒有限公司",
+    "groupOrder": 70,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3026",
+  "parent": "72",
+  "text": "重庆晨报传媒有限公司",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": " 009276871",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3038,
+    "groupName": "重庆市体育局",
+    "groupOrder": 71,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3038",
+  "parent": "72",
+  "text": "重庆市体育局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000504023249B",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3028,
+    "groupName": "重庆市城镇供水排水行业协会",
+    "groupOrder": 72,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3028",
+  "parent": "72",
+  "text": "重庆市城镇供水排水行业协会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1250000045039000X9",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3030,
+    "groupName": "重庆市棋牌运动管理中心",
+    "groupOrder": 73,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3030",
+  "parent": "72",
+  "text": "重庆市棋牌运动管理中心",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "11500000009275828W",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 3020,
+    "groupName": "中共重庆市委机构编制委员会办公室",
+    "groupOrder": 74,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "3020",
+  "parent": "72",
+  "text": "中共重庆市委机构编制委员会办公室",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000MJP579424L",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2922,
+    "groupName": "重庆市认知科学学会",
+    "groupOrder": 75,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2922",
+  "parent": "72",
+  "text": "重庆市认知科学学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000345956729H",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2924,
+    "groupName": "重庆市农业机械学会",
+    "groupOrder": 76,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2924",
+  "parent": "72",
+  "text": "重庆市农业机械学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "515000005040269335",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2926,
+    "groupName": "重庆力学学会",
+    "groupOrder": 77,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2926",
+  "parent": "72",
+  "text": "重庆力学学会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "1150000006219703764",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2938,
+    "groupName": "国家税务总局重庆市税务局",
+    "groupOrder": 78,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2938",
+  "parent": "72",
+  "text": "国家税务总局重庆市税务局",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000MJP565057M",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2928,
+    "groupName": "重庆市产学研合作促进会",
+    "groupOrder": 79,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2928",
+  "parent": "72",
+  "text": "重庆市产学研合作促进会",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "125000004503883645",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2930,
+    "groupName": "重庆市科协科技服务中心",
+    "groupOrder": 80,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2930",
+  "parent": "72",
+  "text": "重庆市科协科技服务中心",
+  "type": "underGroup"
+},
+{
+  "data":
+  {
+    "groupCode": "51500000739817000M",
+    "groupDesc": "",
+    "groupDomain": "",
+    "groupId": 2920,
+    "groupName": "重庆市营养学会",
+    "groupOrder": 81,
+    "groupPid": 72,
+    "groupType": 4,
+    "memo": ""
+  },
+  "id": "2920",
+  "parent": "72",
+  "text": "重庆市营养学会",
+  "type": "underGroup"
+}]

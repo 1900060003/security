@@ -12,6 +12,7 @@ Router.prototype.push = function push(location) {
 }
 
 const router = new Router({
+  // mode: 'history',
   base: '/',
   routes: [{
     path: '/',
@@ -32,25 +33,23 @@ const router = new Router({
 })
 
 const parseRouter = function(list, parent) {
-  var routerList = []
   list.forEach(item => {
-    let router
     if (item.children) {
-      router = {
+      router.addRoute({
         path: '/' + item.path,
-        component: Layout,
-        children: []
-      }
-      router.children = parseRouter(item.children, parent + '/' + item.path)
+        name: item.path,
+        component: Layout
+      })
+      parseRouter(item.children, item.path)
     } else {
       if (parent) {
-        router = {
-          path: item.path,
-          name: item.path,
-          component: (resolve) => require([`@/views${parent}/${item.path}/index.vue`], resolve)
-        }
+        router.addRoute(parent, {
+          path: '/' + parent + '/' + item.path,
+          name: parent + item.path.substring(0, 1).toUpperCase() + item.path.substring(1),
+          component: (resolve) => require([`@/views/${parent}/${item.path}/index.vue`], resolve)
+        })
       } else {
-        router = {
+        router.addRoute({
           path: '/' + item.path,
           component: Layout,
           children: [{
@@ -58,24 +57,17 @@ const parseRouter = function(list, parent) {
             name: item.path,
             component: (resolve) => require([`@/views/${item.path}/index.vue`], resolve)
           }]
-        }
+        })
       }
     }
-    routerList.push(router)
   })
-  return routerList
 }
 
 router.beforeEach((to, from, next) => {
   if (Cookies.get('auth_token')) {
     if (!store.getters.user) {
       store.dispatch('getUser').then(res => {
-        const routerList = parseRouter(store.getters.menus, '')
-        console.log(routerList)
-        router.addRoutes(routerList.concat([{
-          path: '*',
-          component: () => import('@/views/404')
-        }]))
+        parseRouter(store.getters.menus, '')
         return next({ ...to, replace: true })
       })
     } else {

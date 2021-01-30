@@ -1,6 +1,10 @@
 // import i18n from '@/languages'
 const enumInfo = {
   MENU_ICON: {
+    logout: {
+      value: 'logout',
+      desc: 'el-icon-circle-close'
+    },
     home: {
       value: 'home',
       desc: 'el-icon-discover'

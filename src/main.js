@@ -13,6 +13,10 @@ import animated from 'animate.css'
 import 'element-ui/lib/theme-chalk/index.css'
 import './assets/scss/global.scss'
 
+import echarts from 'echarts/dist/echarts.min.js'
+import china from 'echarts/map/json/china.json'
+echarts.registerMap('china', china)
+
 Vue.config.productionTip = false
 
 Vue.use(cookies)
@@ -25,6 +29,7 @@ Vue.use(ElementUI, {
 })
 
 Vue.prototype.$http = axios
+Vue.prototype.$echarts = echarts
 Vue.prototype.$base_api = process.env.VUE_APP_BASE_API
 Vue.prototype.$cookies = cookies
 Vue.prototype.$cookies.config('2h')
