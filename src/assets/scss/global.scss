@@ -1,0 +1,14 @@
+html,
+body,
+#app {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-size: 50px;
+}
+
+i {
+  &.reverse {
+    transform: rotateZ(180deg);
+  }
+}

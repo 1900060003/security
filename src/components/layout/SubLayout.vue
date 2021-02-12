@@ -1,13 +1,13 @@
 <template>
-  <div class="home"></div>
+  <div class="sub-layout"></div>
 </template>
 <script>
 export default {
-  name: 'Home'
+  name: 'SubLayout'
 }
 
 </script>
 <style lang="scss" scoped>
-.home {}
+.sub-layout {}
 
 </style>

@@ -1,13 +1,13 @@
 <template>
-  <div class="home"></div>
+  <div class="page-404"></div>
 </template>
 <script>
 export default {
-  name: 'Home'
+  name: '404'
 }
 
 </script>
 <style lang="scss" scoped>
-.home {}
+.page-404 {}
 
 </style>
